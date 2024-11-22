@@ -1,5 +1,6 @@
 # flutter_neoflex
 Установка flutter:
+
 первая проверка flutter doctor
 ![image](https://github.com/user-attachments/assets/b02f0607-9a13-47b9-a187-fb2a34d4f78b)
 доустановили android studio, проверяем еще раз
