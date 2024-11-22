@@ -9,3 +9,5 @@ Accept все необходимые лицензии
 ![image](https://github.com/user-attachments/assets/b2dfbeb2-3f0d-45d1-ad7b-b75bd6d17638)
 пробуем создать проект в vs code
 ![image](https://github.com/user-attachments/assets/c0a65dab-0625-48ec-b6b1-d129b0c1c933)
+
+по лекциям: изучены лекции до 7 включительно
