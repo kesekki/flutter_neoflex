@@ -36,3 +36,14 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
 
 ![image](https://github.com/user-attachments/assets/23d93066-0709-42ae-8bab-9d9b4b08b9dd)
 ![image](https://github.com/user-attachments/assets/deb33770-b1a1-413e-ac52-5b2bd5dd0221)
+
+Лекция 4: 
+
+1. Компоновка
+
+![image](https://github.com/user-attachments/assets/95f7b8c1-8008-4cea-b230-340e7a9244a2)
+![image](https://github.com/user-attachments/assets/30260b9e-fcee-444d-9fed-4675f567ec80)
+![image](https://github.com/user-attachments/assets/39a9c58a-6adc-49b3-b066-a7afbc0d281c)
+![image](https://github.com/user-attachments/assets/a39b3c0c-fd69-4394-a843-1b5d5b328cc4)
+![image](https://github.com/user-attachments/assets/bca22120-bde4-442b-af42-a210b53361ae)
+
