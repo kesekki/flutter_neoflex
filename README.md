@@ -44,6 +44,24 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
 ![image](https://github.com/user-attachments/assets/95f7b8c1-8008-4cea-b230-340e7a9244a2)
 ![image](https://github.com/user-attachments/assets/30260b9e-fcee-444d-9fed-4675f567ec80)
 ![image](https://github.com/user-attachments/assets/39a9c58a-6adc-49b3-b066-a7afbc0d281c)
-![image](https://github.com/user-attachments/assets/a39b3c0c-fd69-4394-a843-1b5d5b328cc4)
+
+Лекция 5
+
+1. Null-aware
+
 ![image](https://github.com/user-attachments/assets/bca22120-bde4-442b-af42-a210b53361ae)
+![image](https://github.com/user-attachments/assets/2e0486b7-bdd5-44e5-986f-beb61e624009)
+
+2. late
+
+![image](https://github.com/user-attachments/assets/d6b52d67-7fcd-45bd-938e-1f7d6a74595a)
+![image](https://github.com/user-attachments/assets/3da1c70b-c0f2-4fcc-81c8-454200cb2137)
+
+Лекция 6
+
+Навигация:
+
+![image](https://github.com/user-attachments/assets/a1e3dc91-6334-493d-8380-b80632e5eb97)
+![image](https://github.com/user-attachments/assets/0abb9f3f-ec08-474a-a5f9-13fa0a6e2297)
+![image](https://github.com/user-attachments/assets/667a289d-ecd0-48b0-a78b-210766e3f39a)
 
