@@ -98,3 +98,31 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
 ![image](https://github.com/user-attachments/assets/261ee0d9-304b-4338-889a-c73df0d5e97c)
 ![image](https://github.com/user-attachments/assets/6f242178-035e-4e8a-aae3-da56e5ccb16f)
 
+Лекция 12
+
+1. Data. Доработка предложенного кода:
+
+![image](https://github.com/user-attachments/assets/cdcdee5e-7a3a-494c-a7d3-6c5e2b5f8f79)
+![image](https://github.com/user-attachments/assets/078824f7-3a9c-431b-b86a-bd1358261c8b)
+![image](https://github.com/user-attachments/assets/8d363d05-cbb1-4138-95f1-3c35f1acb811)
+
+2. Domain. Доработка предложенного кода:
+
+![image](https://github.com/user-attachments/assets/9836f041-1368-4834-a351-993d7537a2ba)
+
+3. Presentation. Доработка предложенного кода:
+
+Лекция 13
+
+Freezed
+
+dependencies:
+  flutter:
+    sdk: flutter
+  freezed_annotation: ^2.0.3
+  json_annotation: ^4.0.6
+
+dev_dependencies:
+  build_runner: ^2.1.11
+  freezed: ^2.0.3+1
+  json_serializable: ^6.3.1
