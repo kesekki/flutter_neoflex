@@ -65,3 +65,15 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
 ![image](https://github.com/user-attachments/assets/0abb9f3f-ec08-474a-a5f9-13fa0a6e2297)
 ![image](https://github.com/user-attachments/assets/667a289d-ecd0-48b0-a78b-210766e3f39a)
 
+Лекция 7
+
+В данном примере реализован материал из лекции 7:
+
+![image](https://github.com/user-attachments/assets/d51a98b0-2c24-43dc-99d5-8b859054d18a)
+![image](https://github.com/user-attachments/assets/5ef2b694-c5c4-48e1-b88b-9f0fe8ba94a0)
+![image](https://github.com/user-attachments/assets/f17779a2-8d5a-42ce-b8a3-76ed5e226171)
+![image](https://github.com/user-attachments/assets/2f5d97fd-330c-4c41-99ac-82910a44db32)
+![image](https://github.com/user-attachments/assets/06a7eb03-d03e-45ff-a46d-02668c16ec64)
+![image](https://github.com/user-attachments/assets/660ded04-c1f3-4a2d-8279-350044df8e07)
+![image](https://github.com/user-attachments/assets/b4bd9bfe-368c-449e-b82c-a8a2a2c376dc)
+![image](https://github.com/user-attachments/assets/ae450831-de41-4d7b-a5f6-e607b3223e78)
