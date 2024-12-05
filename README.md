@@ -77,3 +77,12 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
 ![image](https://github.com/user-attachments/assets/660ded04-c1f3-4a2d-8279-350044df8e07)
 ![image](https://github.com/user-attachments/assets/b4bd9bfe-368c-449e-b82c-a8a2a2c376dc)
 ![image](https://github.com/user-attachments/assets/ae450831-de41-4d7b-a5f6-e607b3223e78)
+
+Лекция 9
+
+Приммер на использование setState и InheritedWidget
+
+![image](https://github.com/user-attachments/assets/4b182946-3b8f-44b8-912d-213a5ff22d06)
+![image](https://github.com/user-attachments/assets/b57d4d63-a515-4cc2-9ee5-ea54df3e1711)
+![image](https://github.com/user-attachments/assets/e688a269-96e5-4edd-a9cb-355ae9c7f428)
+![image](https://github.com/user-attachments/assets/0a2d12bc-42ea-43f9-a23a-52ce3a37a352)
