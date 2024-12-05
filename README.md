@@ -23,3 +23,16 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
 ![image](https://github.com/user-attachments/assets/96536f77-cb7e-4d91-98fb-909153612454)
 ![image](https://github.com/user-attachments/assets/4f1ecdd3-6307-4a00-9e93-4ff5c962cde0)
 
+5. Assets
+
+![image](https://github.com/user-attachments/assets/cfa34d2b-15ed-412e-804f-d7bb999cdd49)
+![image](https://github.com/user-attachments/assets/59682c9b-f3e0-4648-a889-c5c76dd1af47)
+
+Лекция 3
+
+1. Ключи:
+
+Задание с квадратами: 
+
+![image](https://github.com/user-attachments/assets/23d93066-0709-42ae-8bab-9d9b4b08b9dd)
+![image](https://github.com/user-attachments/assets/deb33770-b1a1-413e-ac52-5b2bd5dd0221)
