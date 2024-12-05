@@ -86,3 +86,15 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
 ![image](https://github.com/user-attachments/assets/b57d4d63-a515-4cc2-9ee5-ea54df3e1711)
 ![image](https://github.com/user-attachments/assets/e688a269-96e5-4edd-a9cb-355ae9c7f428)
 ![image](https://github.com/user-attachments/assets/0a2d12bc-42ea-43f9-a23a-52ce3a37a352)
+
+Лекция 10 + конец декции 9
+
+Использование bloC и equatable
+
+![image](https://github.com/user-attachments/assets/fc13c14c-9c8a-4815-90c2-39be68e8222d)
+![image](https://github.com/user-attachments/assets/1b43c99f-49ac-4a76-a1e1-bd36130913af)
+![image](https://github.com/user-attachments/assets/55b53ee1-1dc0-42d8-a192-7da46e5906cf)
+![image](https://github.com/user-attachments/assets/9642f5e5-42c5-457a-99c5-889e75aafde6)
+![image](https://github.com/user-attachments/assets/261ee0d9-304b-4338-889a-c73df0d5e97c)
+![image](https://github.com/user-attachments/assets/6f242178-035e-4e8a-aae3-da56e5ccb16f)
+
