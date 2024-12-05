@@ -115,7 +115,7 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
 Лекция 13
 
 Freezed
-
+```
 dependencies:
   flutter:
     sdk: flutter
@@ -126,3 +126,74 @@ dev_dependencies:
   build_runner: ^2.1.11
   freezed: ^2.0.3+1
   json_serializable: ^6.3.1
+```
+
+В файла .dart будет:
+```
+import 'package:freezed_annotation/freezed_annotation.dart';
+
+part 'task_model.freezed.dart';
+part 'task_model.g.dart';
+
+@freezed
+class TaskModel with _$TaskModel {
+  factory TaskModel({
+    required String title,
+    required String description,
+    @Default(false) bool isDone,
+  }) = _TaskModel;
+
+  factory TaskModel.fromJson(Map<String, dynamic> json) => _$TaskModelFromJson(json);
+}
+```
+Так можно  будет использовать модель:
+```
+void main() {
+  final task = TaskModel(title: 'Learn Freezed', description: 'Study the Freezed package in Flutter');
+
+  // Сериализация в JSON
+  final json = task.toJson();
+  print(json);
+
+  // Десериализация из JSON
+  final newTask = TaskModel.fromJson(json);
+  print(newTask);
+}
+```
+
+Лекция 14
+
+Напишем unit test для калькулятора:
+
+в .dart будет
+```
+class Calculator {
+  int add(int a, int b) {
+    return a + b;
+  }
+
+  int subtract(int a, int b) {
+    return a - b;
+  }
+}
+```
+
+Файлл для тестирования сожержит следующий код:
+```
+import 'package:flutter_test/flutter_test.dart';
+import 'package:simple_unit_test/calculator.dart';
+
+void main() {
+  group('Calculator', () {
+    final calculator = Calculator();
+
+    test('should return 3 when adding 1 and 2', () {
+      expect(calculator.add(1, 2), 3);
+    });
+
+    test('should return 1 when subtracting 2 from 3', () {
+      expect(calculator.subtract(3, 2), 1);
+    });
+  });
+}
+```
